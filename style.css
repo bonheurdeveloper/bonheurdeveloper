@@ -1,0 +1,25 @@
+
+
+*{
+    padding-top: 14px;
+}
+form{
+    padding: 5px;
+    border: 2px solid rgb(123, 117, 214);
+    border-radius: 7px;
+    width: 30%;
+    justify-self: center;
+
+}
+.mb-3 {
+    width: 100%;
+  
+}
+
+
+input{
+    border: 2px solid rgb(123, 117, 214);
+}
+u{
+    color: blue;
+}
